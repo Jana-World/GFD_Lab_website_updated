@@ -33,6 +33,7 @@ const Team = () => {
       topic: "Geophysical Fluid Dynamics, Planetary & Porous Media Flows",
       bio: "Leads the Geophysical Fluid Dynamics Laboratory with research spanning planetary dynamos, rotating convection, porous media flows, and physics-informed modeling of geophysical systems.",
       email: "swarandeep@iitism.ac.in",
+      website: "https://www.iitism.ac.in/faculty-details?faculty=swarandeep",
       image: swarandeepImg,
     },
   ];

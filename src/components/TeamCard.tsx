@@ -1,4 +1,4 @@
-import { Mail } from "lucide-react";
+import { Mail, Globe } from "lucide-react";
 
 interface TeamCardProps {
   name: string;
@@ -6,6 +6,7 @@ interface TeamCardProps {
   topic: string;
   bio: string;
   email?: string;
+  website?: string;
   image?: string;
 }
 
@@ -15,6 +16,7 @@ const TeamCard = ({
   topic,
   bio,
   email,
+  website,
   image,
 }: TeamCardProps) => {
   return (
@@ -68,6 +70,22 @@ const TeamCard = ({
               className="text-primary hover:text-accent transition-colors"
             >
               {email}
+            </a>
+          </p>
+        )}
+
+        {/* Website */}
+        {website && (
+          <p className="text-sm flex items-center gap-2">
+            <Globe className="w-4 h-4 text-primary" />
+            <span className="font-semibold text-foreground">Website:</span>
+            <a
+              href={website}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary hover:text-accent transition-colors break-all"
+            >
+              {website}
             </a>
           </p>
         )}
