@@ -1,0 +1,44 @@
+[33mcommit debbfa07312ce9ac4101a5aa9b2fb9d8de568f57[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Partha Pratim Jana <janapartha.9733@gmail.com>
+Date:   Mon Feb 16 15:52:50 2026 +0530
+
+    remove large video from git history
+
+ src/assets/news/nptel2026.mp4 | Bin [31m60906632[m -> [32m0[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit fdbed1bbd31ace23b4ecf91088e9a54bbe063152[m
+Author: Partha Pratim Jana <janapartha.9733@gmail.com>
+Date:   Mon Feb 16 15:45:20 2026 +0530
+
+    resize video
+
+ src/assets/news/nptel2026.mp4 | Bin [31m108443074[m -> [32m60906632[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit ab97da5efbc31265bbe9aea989f2b4d0cc01f672[m
+Author: Partha Pratim Jana <janapartha.9733@gmail.com>
+Date:   Mon Feb 16 15:40:29 2026 +0530
+
+    resize video
+
+ src/assets/news/nptel2026.mp4 | Bin [31m330110002[m -> [32m108443074[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 051da26fd227a63bd27abde5781417de63efa616[m
+Author: Partha Pratim Jana <janapartha.9733@gmail.com>
+Date:   Mon Feb 16 15:29:20 2026 +0530
+
+    correction image name
+
+ src/assets/news/nptel2026.mp4 | Bin [31m10487425[m -> [32m330110002[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 8f4b29d08923d4473827d3cb9d0a7bca1e302bb2[m
+Author: Partha Pratim Jana <janapartha.9733@gmail.com>
+Date:   Sat Feb 14 16:27:28 2026 +0530
+
+    Initial commit
+
+ src/assets/news/nptel2026.mp4 | Bin [31m0[m -> [32m10487425[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
