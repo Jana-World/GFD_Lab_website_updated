@@ -55,10 +55,10 @@ const Team = () => {
       position: "PhD Scholar",
       topic:
         "Core dynamics and Magnetohydrodynamics",
-      Website: "https://sites.google.com/view/tirtharajbarman/bio",
+      website: "https://sites.google.com/view/tirtharajbarman/bio",
       image: tirtharajImg,
       email: "23dr0195@iitism.ac.in",
-      bio:"",
+      bio: "",
 
 
 
