@@ -29,7 +29,7 @@ const Team = () => {
   const faculty = [
     {
       name: "Dr. Swarandeep Sahoo",
-      position: "Principal Investigator, Assistant Professor, Deparrment of Applied Geophysics, IIT (ISM) Dhanbad",
+      position: "Principal Investigator, Assistant Professor, Department of Applied Geophysics, IIT (ISM) Dhanbad",
       topic: "Geophysical Fluid Dynamics, Planetary & Porous Media Flows",
       bio: "Leads the Geophysical Fluid Dynamics Laboratory with research spanning planetary dynamos, rotating convection, porous media flows, and physics-informed modeling of geophysical systems.",
       email: "swarandeep@iitism.ac.in",
