@@ -62,11 +62,11 @@ const Publications = () => {
       keywords: ["Rotating Convection", "Spherical Shell", "Thermal Instability"],
       overview:
         "Numerical investigation of the onset of thermal convection in rotating spherical shells with spatially heterogeneous heat sources.",
-      image: "/assets/journals/pof.png",
+      /*image: "/assets/journals/pof.png",
       outputImages: [
         "/assets/outputs/seismic-net-1.png",
         "/assets/outputs/seismic-net-2.png",
-      ],
+      ],*/
       link: "https://doi.org/10.1063/5.0241806",
     },
 
@@ -79,11 +79,11 @@ const Publications = () => {
       keywords: ["Geodynamo", "Machine Learning", "Flow Structures"],
       overview:
         "Data-driven identification of coherent flow and magnetic field structures in rotating spherical shell dynamo simulations.",
-      image: "/assets/journals/pof.png",
+      /*image: "/assets/journals/pof.png",
       outputImages: [
         "/assets/outputs/seismic-net-1.png",
         "/assets/outputs/seismic-net-2.png",
-      ],
+      ],*/
       link: "https://doi.org/10.1063/5.0235675",
     },
 
@@ -96,11 +96,11 @@ const Publications = () => {
       keywords: ["Digital Rock Physics", "Shale Reservoirs"],
       overview:
         "Digital rock physics-based evaluation of pore-scale microstructure and flow entrapment in Indian Gondwana shale reservoirs.",
-      image: "/assets/journals/mpg.png",
+      /*image: "/assets/journals/mpg.png",
       outputImages: [
         "/assets/outputs/seismic-net-1.png",
         "/assets/outputs/seismic-net-2.png",
-      ],
+      ],*/
       link: "https://doi.org/10.1016/j.marpetgeo.2024.107066",
     },
 
@@ -113,11 +113,11 @@ const Publications = () => {
       keywords: ["Magnetoconvection", "Stable Stratification"],
       overview:
         "Study of oscillatory instability in rotating thermal convection under spatially varying magnetic fields and stable stratification.",
-      image: "/assets/journals/pof.png",
+      /*image: "/assets/journals/pof.png",
       outputImages: [
         "/assets/outputs/seismic-net-1.png",
         "/assets/outputs/seismic-net-2.png",
-      ],
+      ],*/
       link: "https://doi.org/10.1063/5.0221496",
     },
 
@@ -130,11 +130,11 @@ const Publications = () => {
       keywords: ["Magnetoconvection", "Rapid Rotation"],
       overview:
         "Analysis of weak time-scale separation at the onset of oscillatory magnetoconvection in rapidly rotating systems.",
-      image: "/assets/journals/ps.png",
+      /*image: "/assets/journals/ps.png",
       outputImages: [
         "/assets/outputs/seismic-net-1.png",
         "/assets/outputs/seismic-net-2.png",
-      ],
+      ],*/
       link: "",
     },
 
@@ -147,11 +147,11 @@ const Publications = () => {
       keywords: ["Fractal Analysis", "Topology", "Shale"],
       overview:
         "Quantitative microstructural characterization of Indian Gondwana shale using fractal geometry and algebraic topology.",
-      image: "/assets/journals/petgeo.png",
+      /*image: "/assets/journals/petgeo.png",
       outputImages: [
         "/assets/outputs/seismic-net-1.png",
         "/assets/outputs/seismic-net-2.png",
-      ],
+      ],*/
       link: "https://doi.org/10.1144/petgeo2023-105",
     },
 
@@ -164,11 +164,11 @@ const Publications = () => {
       keywords: ["Heat Transfer", "Stratification"],
       overview:
         "Investigation of fluid flow and heat transfer characteristics under partial stable stratification in rotating convection.",
-      image: "/assets/journals/pof.png",
+      /*image: "/assets/journals/pof.png",
       outputImages: [
         "/assets/outputs/seismic-net-1.png",
         "/assets/outputs/seismic-net-2.png",
-      ],
+      ],*/
       link: "https://doi.org/10.1063/5.0202158",
     },
 
@@ -181,11 +181,11 @@ const Publications = () => {
       keywords: ["Earth's Core", "Geodynamo"],
       overview:
         "Study of thermal convection and magnetic field generation influenced by stable stratification at the top of Earth's outer core.",
-      image: "/assets/journals/pepi.png",
+      /*image: "/assets/journals/pepi.png",
       outputImages: [
         "/assets/outputs/seismic-net-1.png",
         "/assets/outputs/seismic-net-2.png",
-      ],
+      ],*/
       link: "https://doi.org/10.1016/j.pepi.2023.107111",
     },
 
@@ -198,11 +198,11 @@ const Publications = () => {
       keywords: ["Rotating Fluids", "Instabilities"],
       overview:
         "Analysis of convective instabilities arising from thermal heterogeneity and stable stratification in rotating fluids.",
-      image: "/assets/journals/pof.png",
+      /*image: "/assets/journals/pof.png",
       outputImages: [
         "/assets/outputs/seismic-net-1.png",
         "/assets/outputs/seismic-net-2.png",
-      ],
+      ],*/
       link: "https://doi.org/10.1063/5.0124368",
     },
   ];
@@ -219,11 +219,11 @@ const Publications = () => {
       keywords: ["Earthquake Engineering", "Structural Response"],
       overview:
         "Edited volume focusing on strong motion earthquakes, structural response modelling, and earthquake-resistant design.",
-      image: "/assets/editorial/earthquake.png",
+      /*image: "/assets/editorial/earthquake.png",
       outputImages: [
         "/assets/outputs/seismic-net-1.png",
         "/assets/outputs/seismic-net-2.png",
-      ],
+      ],*/
       link: "",
     },
   ];
@@ -239,11 +239,11 @@ const Publications = () => {
       keywords: ["Geomagnetism", "Mantle Heterogeneity"],
       overview:
         "Invited talk on the influence of lower mantle heterogeneity on Earth's core convection and geomagnetic field.",
-      image: "/assets/conferences/agu.png",
+      /*image: "/assets/conferences/agu.png",
       outputImages: [
         "/assets/outputs/seismic-net-1.png",
         "/assets/outputs/seismic-net-2.png",
-      ],
+      ],*/
       link: "",
     },
 
@@ -256,11 +256,11 @@ const Publications = () => {
       keywords: ["Core-Mantle Interaction"],
       overview:
         "Laboratory-based investigation of thermal interaction between Earth's core and mantle.",
-      image: "/assets/conferences/egu.png",
+      /*image: "/assets/conferences/egu.png",
       outputImages: [
         "/assets/outputs/seismic-net-1.png",
         "/assets/outputs/seismic-net-2.png",
-      ],
+      ],*/
       link: "",
     },
 
@@ -273,11 +273,11 @@ const Publications = () => {
       keywords: ["Mars", "Planetary Magnetism"],
       overview:
         "Award-winning poster on Martian magnetic field interpretation using spherical harmonic analysis.",
-      image: "/assets/conferences/igu.png",
+      /*image: "/assets/conferences/igu.png",
       outputImages: [
         "/assets/outputs/seismic-net-1.png",
         "/assets/outputs/seismic-net-2.png",
-      ],
+      ],*/
       link: "",
     },
   ];
