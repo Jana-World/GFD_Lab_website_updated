@@ -40,7 +40,7 @@ const Team = () => {
   /* ================= PhD SCHOLARS ================= */
   const phdScholars = [
     {
-      name: "abhay shukla",
+      name: "Abhay Shukla",
       position: "PhD Scholar",
       topic:
         "Fluid Flow in Porous Media",

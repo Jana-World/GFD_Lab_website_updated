@@ -54,7 +54,7 @@ const Collaborations = () => {
       photo: ingoPhoto,
       institution: "University of Strasbourg / EOST",
       logo: strasbourgLogo,
-      country: "Germany",
+      country: "France",
       website: "https://scholar.google.de/citations?user=02h4PbAAAAAJ&hl=de",
       type: "International",
     },
